@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Desktop\task18.10\task18.10\bin\Debug\net8.0\task18.10.exe
+C:\Users\PC\OneDrive\Desktop\task18.10\task18.10\bin\Debug\net8.0\task18.10.deps.json
+C:\Users\PC\OneDrive\Desktop\task18.10\task18.10\bin\Debug\net8.0\task18.10.runtimeconfig.json
+C:\Users\PC\OneDrive\Desktop\task18.10\task18.10\bin\Debug\net8.0\task18.10.dll
+C:\Users\PC\OneDrive\Desktop\task18.10\task18.10\bin\Debug\net8.0\task18.10.pdb
+C:\Users\PC\OneDrive\Desktop\task18.10\task18.10\obj\Debug\net8.0\task18.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Desktop\task18.10\task18.10\obj\Debug\net8.0\task18.10.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Desktop\task18.10\task18.10\obj\Debug\net8.0\task18.10.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Desktop\task18.10\task18.10\obj\Debug\net8.0\task18.10.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\task18.10\task18.10\obj\Debug\net8.0\task18.10.dll
+C:\Users\PC\OneDrive\Desktop\task18.10\task18.10\obj\Debug\net8.0\refint\task18.10.dll
+C:\Users\PC\OneDrive\Desktop\task18.10\task18.10\obj\Debug\net8.0\task18.10.pdb
+C:\Users\PC\OneDrive\Desktop\task18.10\task18.10\obj\Debug\net8.0\task18.10.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Desktop\task18.10\task18.10\obj\Debug\net8.0\ref\task18.10.dll
