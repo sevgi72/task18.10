@@ -62,6 +62,65 @@
             //string num= Console.ReadLine();
             //Console.WriteLine(AllNumbersSame(num.ToString()));
 
+            //ad soyad yazan
+            //string name= Console.ReadLine();
+            //string surname= Console.ReadLine(); 
+            //NameSurname(name,surname);
+
+
+
+            //2 ededin cemini tapan
+            //int a=int.Parse(Console.ReadLine());
+            //int b=int.Parse(Console.ReadLine());
+            //Console.WriteLine(SumOfTwoNumbers(a,b));
+
+
+
+            //3 ededin cemini tapan 
+            //int x = int.Parse(Console.ReadLine());
+            //int y = int.Parse(Console.ReadLine());
+            //int z = int.Parse(Console.ReadLine());
+            //Console.WriteLine(SumOfThreeNumbers(x,y,z));
+
+
+
+            //a nin b den boyuk olub olmamasini yoxlayan
+            //int a=int.Parse(Console.ReadLine());
+            //int b =int.Parse(Console.ReadLine());
+            //Console.WriteLine(Compare(a,b));
+
+
+
+            //arrayin elementlerinin cemi
+            //int[] array = { 1, 5, 3, 6, 3, 6 };
+            //Console.WriteLine(SumArray(array));
+
+
+
+
+            //stringde butun bsoluqlari silen 
+            //string str=Console.ReadLine();
+            //Console.WriteLine(GapRemover(str));
+
+
+
+            //arrayin elementlerini cap eden
+            //int[] numbers = { 1, 2, 3, 4 };
+            //Console.WriteLine(PrintArray(numbers));
+
+
+
+            //arraya element elave eden
+            //int[] arr = { 1, 2, 3 };
+            //int element = int.Parse(Console.ReadLine());
+            //int[] newArr = AddElement(arr, element);
+            //for (int i = 0;i<newArr.Length;i++)
+            //{
+            //    Console.WriteLine(newArr[i]);
+            //}
+
+
+
 
 
         }
@@ -333,10 +392,89 @@
         //        return "eynidir";
         //    }
         //}
+
+
+
+
+        //public static void NameSurname(string name, string surname)
+        //{
+        //    Console.WriteLine($"Name: {name}, Surname: {surname}");
+        //}
+
+
+        //public static int SumOfTwoNumbers(int a, int b)
+        //{
+        //    return a + b;
+        //}
+
+
+        //public static int SumOfThreeNumbers(int x, int y, int z)
+        //{
+        //    return SumOfTwoNumbers(x, y) + z;
+        //}
+
+
+        //public static bool Compare(int a, int b)
+        //{
+        //    if (a > b) 
+        //        return true;
+        //    else
+        //        return false;
+        //}
+
+
+        //public static int SumArray(int[] array)
+        //{
+        //    int sum = 0;
+        //    for (int i = 0; i < array.Length; i++)
+        //    {
+        //        sum += array[i];
+        //    }
+        //    return sum;
+        //}
+
+
+
+        //public static string GapRemover(string str)
+        //{
+        //    string newstr = "";
+        //    for (int i = 0; i < str.Length; i++)
+        //    {
+        //        if (str[i] != ' ')
+        //            newstr += str[i];
+        //    }
+        //    return newstr;
+        //}
+
+
+
+        //public static string PrintArray(int[] numbers)
+        //{
+        //    string result = "";
+        //    foreach (int n in numbers)
+        //    {
+        //        result += n + " ";
+        //    }
+        //    return result; 
+        //}
+
+
+
+        //public static int[] AddElement(int[] arr, int element)
+        //{
+        //    int[] newArr = new int[arr.Length + 1];
+        //    for (int i = 0; i < arr.Length; i++)
+        //    {
+        //        newArr[i] = arr[i];
+        //    }
+        //    newArr[newArr.Length - 1] = element;
+        //    return newArr;
+        //}
+
+
+        
     }
-
 }
-
 
 
 
